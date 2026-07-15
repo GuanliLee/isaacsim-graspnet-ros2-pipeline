@@ -1,0 +1,10 @@
+numpy==1.26.4
+scipy==1.13.1
+opencv-python==4.11.0.86
+Pillow==12.2.0
+matplotlib==3.10.9
+ultralytics==8.4.93
+graspnetAPI==1.2.11
+
+# Install a CUDA-compatible PyTorch build separately.
+# Install GraspNet Baseline and its pointnet2/knn extensions separately.

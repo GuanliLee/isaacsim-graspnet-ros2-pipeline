@@ -1,0 +1,15 @@
+{
+  "link6_tcp": {
+    "translation_m": [
+      0.000010095,
+      -0.000998278,
+      0.096783271
+    ],
+    "rotation_3x3": [
+      [1.0, -0.000003636, 0.0],
+      [0.000003636, 1.0, 0.0],
+      [0.0, 0.0, 1.0]
+    ]
+  },
+  "note": "Example only. Recompute link6-to-TCP extrinsics for your gripper."
+}

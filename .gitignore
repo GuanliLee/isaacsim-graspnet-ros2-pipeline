@@ -1,0 +1,29 @@
+# Local configuration and calibration
+config/pipeline.env
+.env
+
+# Generated inputs and outputs
+work/
+outputs/*
+!outputs/.gitkeep
+*.npy
+*.mat
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.o
+build/
+*.egg-info/
+.venv/
+.pytest_cache/
+.mypy_cache/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
